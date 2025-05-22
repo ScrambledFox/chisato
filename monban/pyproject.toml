@@ -1,0 +1,16 @@
+[project]
+name = "chisato"
+version = "0.1.0"
+description = "Personal banking assistant and monitoring tool"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "duckdb>=1.2.2",
+    "pandas>=2.0.3",
+    "prophet>=1.1.6",
+    "pushover-complete>=1.2.0",
+    "requests>=2.32.3",
+    "schedule>=1.2.2",
+    "streamlit>=1.40.1",
+    "watchdog>=4.0.2",
+]
