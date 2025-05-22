@@ -65,4 +65,6 @@ dmypy.json
 # Local data
 data/
 logs/
+processed/
 *.log
+*.csv

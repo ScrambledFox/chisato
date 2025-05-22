@@ -1,0 +1,20 @@
+[general]
+currency = "EUR"
+warning_threshold = 200
+
+[income]
+predicited_monthly_income = 3524.00
+
+[budgets]
+groceries = 600.00
+savings = 500.00
+vehicle_maintenance = 100.00
+
+[static_costs]
+rent = 1316.38
+utilities = 131.9
+internet = 61.50
+insurance = 199.63
+taxes = 125.01
+subscriptions = 35.32
+bank_fees = 5.30
