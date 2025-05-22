@@ -65,3 +65,4 @@ dmypy.json
 # Local data
 data/
 logs/
+*.log
